@@ -1,5 +1,5 @@
 #content {
-  background: blue;
+  background: black;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 1px;
@@ -54,7 +54,7 @@ p {
 }
 
 body {
-  background-color: blue;
+  background-color: black;
 }
 
 .buttonDiv{
@@ -63,7 +63,7 @@ body {
 }
 
 button {
-  background-color: blue;
+  background-color: black;
   color: white;
   font-family: 'Arial', sans-serif;
   font-size: 21px;
